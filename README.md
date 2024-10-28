@@ -25,4 +25,4 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-Walkthrough Video: https://app.screencastify.com/v2/manage/videos/XKTApLdJBOQVDYcKQoXy
+Walkthrough Video: https://drive.google.com/file/d/1f5keADbCm7Irgy2gJCnQPOMKUjbnpUYe/view
